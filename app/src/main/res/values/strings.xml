@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">VtDemo</string>
+  <string name="recognizer_file">识别语音-文件</string>
+  <string name="recognizer_speech">识别语音-麦克</string>
+</resources>
